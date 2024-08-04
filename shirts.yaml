@@ -1,0 +1,9 @@
+path: C:/Users/majid/shirt_detection/annotated data
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Black_Shirt', 'Blue_Shirts', 'White_Shirts', 'Grey_Shirt']
